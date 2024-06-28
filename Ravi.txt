@@ -1,1 +1,2 @@
 ravi.txt
+Azure DevOps provides an integrated set of services and tools to manage your software projects, from planning and development through testing and deployment.
